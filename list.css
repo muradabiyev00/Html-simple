@@ -1,0 +1,13 @@
+*{
+    padding: 1;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-color: rgb(82, 10, 150);
+    color: white;
+    height: 110vh;
+}
+ol {
+    list-style: decimal;
+}
